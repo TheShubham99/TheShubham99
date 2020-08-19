@@ -21,5 +21,6 @@
     1. I think in `python`. :snake: [Hackerrank](https://www.hackerrank.com/ssahasrabhojane)    
     2. ```print(Me==Prathamesh==@Pratham==@TheShubham99) #true```
     3. Always working on sideprojects in `AR/XR` :heart:
+    4. Dev.to profile [![Prathamesh Sahasrabhojane ✔️'s DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/theshubham99)
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=theshubham99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
