@@ -22,10 +22,6 @@
 -->
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prathamesh-sahasrabhojane/), [Website](https://prathamesh.me)
-- ⚡ Fun fact(s): 
-    1. I think in `python`. :snake: [Hackerrank](https://www.hackerrank.com/ssahasrabhojane)    
-    2. ```print(Me==Prathamesh==@Pratham==@TheShubham99) #true```
-    3. Always working on sideprojects in `AR/XR` :heart:
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=theshubham99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
