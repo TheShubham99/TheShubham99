@@ -5,7 +5,7 @@
 ![](https://github.com/TheShubham99/TheShubham99/blob/master/whoami.gif)  
 
 > Scroll Down to continue with the conventional GH profile. :arrow_double_down:
-- Full Stack Deverloper **[@Getsimpl](https://github.com/getsimpl), Ex-[@Gigindia](https://github.com/gigindia)**
+- Full Stack Engineer **[@Rippling](https://github.com/Rippling), Ex - [@Getsimpl](https://github.com/getsimpl), [@Gigindia](https://github.com/gigindia)**
 - **Google Summer of Code 2022** at [@Terasology](https://github.com/MovingBlocks).
 - `open source` Contributor  :heart: [@Terasology](https://github.com/MovingBlocks), [@Processing Foundation](https://github.com/processing), [@Arduino](https://github.com/arduino-libraries), [@MovingBlocks](https://github.com/MovingBlocks)
 
