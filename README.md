@@ -23,4 +23,4 @@
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prathamesh-sahasrabhojane/), [Website](https://theshubham99.github.io)
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=theshubham99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<!-- ![my github stats](https://github-readme-stats.vercel.app/api?username=theshubham99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
